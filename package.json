@@ -1,0 +1,14 @@
+{
+  "name": "super-basic-node-app",
+  "version": "1.0.0",
+  "description": "Super basic node app to try and figure out different deployments on aws",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
